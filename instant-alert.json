@@ -1,0 +1,57 @@
+{
+  "product": {
+    "name": "Instant Alert",
+    "description": "🚀 Instant Alert is an API that allows you to receive real-time notifications whenever someone visits your website. Stay instantly informed about your site's traffic and engagement.",
+    "keywords": [
+      "Instant Alert API",
+      "Real-Time Website Visitor Notifications",
+      "Instant Traffic Alerts"
+    ],
+    "images": [
+      {
+        "src": "",
+        "sizes": "",
+        "type": "image/png"
+      }
+    ],
+    "type": "template",
+    "version": "V1.0",
+    "changelogs": [
+      {
+        "type": "fixed",
+        "changes": []
+      },
+      {
+        "type": "deprecated",
+        "changes": []
+      }
+    ],
+    "date": "",
+    "versions": [
+      {
+        "version": "V1.0",
+        "date": ""
+      },
+      {
+        "version": "V2.0",
+        "date": "17 Mars 2023"
+      },
+      {
+        "version": "V3.0",
+        "date": "16 Juin 2023"
+      }
+    }
+  },
+  "organization": {
+    "name": "Coding Team",
+    "website": "https://codingteam.tech",
+    "blog": "https://www.codingteam.tech",
+    "api": "https:/t.me/CodingApis",
+    "developers": [
+      {
+        "name": "Aliou",
+        "uri": "https:/t.me/A_liou"
+      }
+    ]
+  }
+}
