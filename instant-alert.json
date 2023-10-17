@@ -9,8 +9,7 @@
     ],
     "images": [
       {
-        "src": "",
-        "sizes": "",
+        "src": "https://telegra.ph/file/757034138a4c930887b6b.jpg",
         "type": "image/png"
       }
     ],
@@ -19,38 +18,38 @@
     "changelogs": [
       {
         "type": "fixed",
-        "changes": []
+        "changes": ["Nous avons corrigé les erreurs d'encodage.", "Nous avons résolu les problèmes mineurs lorsque l'utilisateur utilise un VPN."]
       },
       {
         "type": "deprecated",
-        "changes": []
+        "changes": ["La commande '/blog' a été obsolète."]
       }
     ],
-    "date": "",
+    "date": "17 Mars 2023",
     "versions": [
       {
         "version": "V1.0",
-        "date": ""
+        "date": "17 Mars 2023"
       },
       {
         "version": "V2.0",
-        "date": "17 Mars 2023"
+        "date": "07 JUin 2023"
       },
       {
         "version": "V3.0",
         "date": "16 Juin 2023"
       }
-    }
+    ]
   },
   "organization": {
     "name": "Coding Team",
     "website": "https://codingteam.tech",
     "blog": "https://www.codingteam.tech",
-    "api": "https:/t.me/CodingApis",
+    "api": "https://t.me/CodingApis",
     "developers": [
       {
         "name": "Aliou",
-        "uri": "https:/t.me/A_liou"
+        "uri": "https://t.me/A_liou"
       }
     ]
   }
